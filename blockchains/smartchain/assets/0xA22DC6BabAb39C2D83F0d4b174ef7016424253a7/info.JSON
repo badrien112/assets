@@ -1,0 +1,11 @@
+{
+    "name": "BabyBUSD",
+    "website": "https://www.babybusd.net/",
+    "description": "A BUSD reflection token that rewards holders with bsc BUSD. Rewards are shared equal to holder supply share, own 1% of supply and you receive 1% of the reward pool. BabyBUSD has a buy tax of 15% and sell tax of 25%.",
+    "explorer": "https://bscscan.com/token/0xa22dc6babab39c2d83f0d4b174ef7016424253a7",
+    "type": "BEP20",
+    "symbol": "BabyBUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA22DC6BabAb39C2D83F0d4b174ef7016424253a7"
+}
